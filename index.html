@@ -32,7 +32,7 @@
                return false;
            }
         
-            let response = await fetch(`http://www.omdbapi.com/?apikey=3f6bb1c9&s=${movie}`);
+            let response = await fetch(`https://www.omdbapi.com/?apikey=3f6bb1c9&s=${movie}`);
             let data = await response.json();
             let movies_arr = data.Search;
             appendMovies(movies_arr);
