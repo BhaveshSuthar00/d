@@ -18,9 +18,5 @@ Project: make a clone of https://www.youtube.com/ site
 - Main Movie Details Page
 ![image](https://user-images.githubusercontent.com/95856642/159216956-2414acbd-1074-4673-8bbe-effe2ce36b75.png)
 
-  
-  ### End Notes 📑
-In this project I try to clone Youtube website as much as possible. 
-
 ### Limitations:
 All pages are responsive, It will work totally in any size of devices.
