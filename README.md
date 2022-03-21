@@ -1,9 +1,6 @@
 # Link
 https://dark-movies.vercel.app/
-# youtube-clone
-# ubuy-project
-Project: make a clone of https://www.youtube.com/ site
-
+# Note
 *Made a fun website where you can search any kind of shows, movie, series etc. and in return it will give you the details search*
 
 ## Technology Stack Used
